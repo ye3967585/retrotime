@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Retro Time Enginer", "Retro Time Enginer\Retro Time Enginer.csproj", "{2CED479C-7330-4A6D-AB3A-BF94B013389D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{98843BF8-ECF5-42E6-BFDA-E008BBE6CC37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CED479C-7330-4A6D-AB3A-BF94B013389D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CED479C-7330-4A6D-AB3A-BF94B013389D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CED479C-7330-4A6D-AB3A-BF94B013389D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CED479C-7330-4A6D-AB3A-BF94B013389D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98843BF8-ECF5-42E6-BFDA-E008BBE6CC37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98843BF8-ECF5-42E6-BFDA-E008BBE6CC37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98843BF8-ECF5-42E6-BFDA-E008BBE6CC37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98843BF8-ECF5-42E6-BFDA-E008BBE6CC37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DCDCBDE-07E1-492C-A413-0407AE0F6071}
+	EndGlobalSection
+EndGlobal
