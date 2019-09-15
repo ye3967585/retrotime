@@ -6,3 +6,5 @@ E:\My Projects\Retro Time Enginer\TestApp\obj\Debug\TestApp.csproj.CoreCompileIn
 E:\My Projects\Retro Time Enginer\TestApp\obj\Debug\TestApp.exe
 E:\My Projects\Retro Time Enginer\TestApp\obj\Debug\TestApp.pdb
 E:\My Projects\Retro Time Enginer\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+C:\Users\Administrator\source\repos\retrotime\Retro Time Enginer\TestApp\obj\Debug\TestApp.exe
+C:\Users\Administrator\source\repos\retrotime\Retro Time Enginer\TestApp\obj\Debug\TestApp.pdb

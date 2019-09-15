@@ -6,3 +6,5 @@ E:\My Projects\Retro Time Enginer\Retro Time Enginer\obj\Debug\RetroTime.dll
 E:\My Projects\Retro Time Enginer\Retro Time Enginer\obj\Debug\RetroTime.pdb
 E:\My Projects\Retro Time Enginer\Demo\dll\RetroTime.xml
 E:\My Projects\Retro Time Enginer\Retro Time Enginer\obj\Debug\Retro Time Enginer.csproj.CopyComplete
+C:\Users\Administrator\source\repos\retrotime\Retro Time Enginer\Retro Time Enginer\obj\Debug\RetroTime.dll
+C:\Users\Administrator\source\repos\retrotime\Retro Time Enginer\Retro Time Enginer\obj\Debug\RetroTime.pdb
