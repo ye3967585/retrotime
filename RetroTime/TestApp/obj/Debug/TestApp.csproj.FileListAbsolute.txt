@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\RetroTimeLibrary\RetroTime\Output\TestApp.exe.config
+C:\Users\Administrator\source\repos\RetroTimeLibrary\RetroTime\Output\TestApp.exe
+C:\Users\Administrator\source\repos\RetroTimeLibrary\RetroTime\Output\TestApp.pdb
+C:\Users\Administrator\source\repos\RetroTimeLibrary\RetroTime\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\RetroTimeLibrary\RetroTime\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\RetroTimeLibrary\RetroTime\TestApp\obj\Debug\TestApp.csproj.CopyComplete
+C:\Users\Administrator\source\repos\RetroTimeLibrary\RetroTime\TestApp\obj\Debug\TestApp.exe
+C:\Users\Administrator\source\repos\RetroTimeLibrary\RetroTime\TestApp\obj\Debug\TestApp.pdb

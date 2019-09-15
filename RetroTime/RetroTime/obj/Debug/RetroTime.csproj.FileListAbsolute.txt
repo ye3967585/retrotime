@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\RetroTimeLibrary\RetroTime\Output\dll\RetroTime.dll
+C:\Users\Administrator\source\repos\RetroTimeLibrary\RetroTime\Output\dll\RetroTime.pdb
+C:\Users\Administrator\source\repos\RetroTimeLibrary\RetroTime\RetroTime\obj\Debug\RetroTime.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\RetroTimeLibrary\RetroTime\RetroTime\obj\Debug\RetroTime.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\RetroTimeLibrary\RetroTime\RetroTime\obj\Debug\RetroTime.dll
+C:\Users\Administrator\source\repos\RetroTimeLibrary\RetroTime\RetroTime\obj\Debug\RetroTime.pdb
